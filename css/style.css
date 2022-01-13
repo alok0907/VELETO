@@ -29,6 +29,40 @@ a:active {
 	color: rgb(40, 116, 134);
 }
 
+/* ----- Chatbot Start  ----- */
+
+.chatbot{
+	position: fixed;
+	right: 30px;
+	bottom: 20px;
+	font-size: 80px;
+	color: #fff;
+	cursor: pointer;
+	z-index: 3000;
+	transition: all 0.3s ease-out;
+}
+
+.chatbot.active{	
+	transform: rotate(360deg);
+}
+
+.chatbox{
+	position: fixed;
+	right: 90px;
+	bottom: 80px;
+	width: 400px;
+	height: 75vh;
+	z-index: 3000;
+	transition: all 0.3s ease-out;
+	transform: scaleY(0);
+}
+
+.chatbox.active{
+	transform: scaleY(1);
+}
+
+/* ----- Chatbot End  ----- */
+
 h1,h2{
 	font-weight: 600;
 	line-height: 1.4em;

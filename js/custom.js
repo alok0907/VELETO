@@ -148,7 +148,17 @@ jQuery(document).ready(function($) {
 			});
 			 
 });
-//MY jjs -------------------------------
 
+// ------ CHATBOT TRANSITION------
 
+$(document).ready(function() {
+	$(".chatbot").click(function(event){
+	   $(".chatbot").toggleClass('active');
+	   $(".chatbox").toggleClass('active');
+	});
+ });
 
+ //------IFRAME BACKGROUND------
+
+ $('iframe').css('background', 'white');
+ $('iframe').contents().find('body').css('backgroundColor', 'white');

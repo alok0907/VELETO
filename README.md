@@ -2,6 +2,7 @@ I made this project for my Future Ready Talent internship in Microsoft Azure.
 
 1. INDUSTRY: Fin Tech
 
+
 2. PROJECT TITLE: Business Portfolio Website with AI Chatbot using Microsoft Azure Services
 
 
@@ -46,4 +47,40 @@ I made this project for my Future Ready Talent internship in Microsoft Azure.
 	A portfolio website is so much more than a website where you present your work. The website is a channel to explain 
     about achievements and welcome new contacts and clients to your client base. The website design should consider how the 
     organisation can develop a more inviting environment to new clients, clearly explain product and services. It’s a great 
-    business building strategy and wonderful way to develop lasting relationships with clients you LOVE!
+    business building strategy and wonderful way to develop long lasting relationships with clients.
+
+
+4. PROJECT DESCRIPTION*:	
+
+	The aim of the project is to create a business portfolio website with an artificial intelligence chatbot to make online 
+    presence of the organisation. It will provide clients an easy and convenient user interface for asking queries regarding 
+    the product and services. The conversation with the customers visiting the website with the help of AI Chatbot will increase 
+    the positive user experience towards the organisation. The chatbot will add convenience for customers visiting the website. 
+    The chatbot will help customers to get all the information required as quickly and smoothly as possible. The chatbot will 
+    guide the customers find their way in and out of the website information. Chatbots will act like website assistants. The 
+    management have selected Azure Cloud Services to create the Chatbot. The website will have a Home page, About page, Product 
+    details Page, Gallery Page and Contact Page along with FAQ chatbot deployed for customers help.	Some of the advantages of 
+    using the chatbot are as follows :
+
+    	1. Faster and efficient method to provide information to the customers. 
+    
+    	2. Exceptionally fast exchange of customer problems and solutions.
+
+    	3. Easy and least time consuming.
+
+    	4. Many simultaneous  users  can communicate with the chatbot.
+
+    	5. The chatbot will be available anytime for the customer. 
+
+    	6.Increase in productivity and growth of the organization.
+    		
+    		
+    SOFTWARE AND WEB TECHNOLOGIES USED IN PROJECT -
+
+		Operating System	:   Debian 11 (Linux)
+
+		Web Technologies	:   HTML5, CSS3, Javascript, Bootstrap, Jquery, Github
+		
+		Code Editor		    :   Visual Studio Code
+
+        Azure Services      :   Azure Bot Service, QnA Maker Service, Azure App Service, Azure Portal, Azure cloud shell

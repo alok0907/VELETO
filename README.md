@@ -38,12 +38,12 @@ I made this project for my Future Ready Talent internship in Microsoft Azure.
 	
     With so many different ways to sell and market product and services including online networks and physical networks,
 	it is imperative to make your website your marketing hub, the one place potential clients can go to learn more about 
-    product and services whether online or offline. The portfolio website provides an oppertunity to explain your business 
+    product and services whether online or offline. The portfolio website provides an opportunity to explain your business 
     model and services. Furthermore, potential clients can find all the social media links they may need on your website.
 
 	MAKE SURE YOU ARE MAXIMIZING YOUR POTENTIAL:
 
-	A portfolio website is so much more than a website where you present your work. Your website is your chance to tell your 
-    story and welcome new contacts and clients to your world. The website design should consider how the organisation can 
-    develop a more inviting environment to new clients, clearly explain product and services. It’s a great business building
-	strategy and wonderful way to develop lasting relationships with clients you LOVE!
+	A portfolio website is so much more than a website where you present your work. The website is a channel to explain 
+    about achievements and welcome new contacts and clients to your client base. The website design should consider how the 
+    organisation can develop a more inviting environment to new clients, clearly explain product and services. It’s a great 
+    business building strategy and wonderful way to develop lasting relationships with clients you LOVE!

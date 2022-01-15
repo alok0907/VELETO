@@ -1,6 +1,6 @@
 I made this project for my Future Ready Talent internship in Microsoft Azure.
 
-1. INDUSTRY : Fin Tech
+1. INDUSTRY : Financial Technology
 
 
 2. PROJECT TITLE : Business Portfolio Website with AI Chatbot using Microsoft Azure Services

@@ -59,8 +59,8 @@ I made this project for my Future Ready Talent internship in Microsoft Azure.
     The chatbot will help customers to get all the information required as quickly and smoothly as possible. The chatbot will 
     guide the customers find their way in and out of the website information. Chatbots will act like website assistants. The 
     management have selected Azure Cloud Services to create the Chatbot. The website will have a Home page, About page, Product 
-    details Page, Gallery Page and Contact Page along with FAQ chatbot deployed for customers help.	Some of the advantages of 
-    using the chatbot are as follows :
+    details Page, Gallery Page and Contact Page along with FAQ chatbot deployed for customers help. The chatbot is placed at
+    the bottom right corner of all the web pages of the website. Some of the advantages of using the chatbot are as follows :
 
     	1. Faster and efficient method to provide information to the customers. 
     

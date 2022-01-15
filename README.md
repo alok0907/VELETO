@@ -84,3 +84,9 @@ I made this project for my Future Ready Talent internship in Microsoft Azure.
 		Code Editor            :   Visual Studio Code
 
         Azure Services         :   Azure Bot Service, QnA Maker Service, Azure App Service, Azure Portal, Azure cloud shell
+
+
+7. PROJECT LINK (GITHUB REPOSITORY URL) :  https://github.com/alok0907/VELETO
+	
+	
+8. PROJECT DEMO URL :  https://veleto.azurewebsites.net

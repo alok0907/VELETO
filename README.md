@@ -81,6 +81,6 @@ I made this project for my Future Ready Talent internship in Microsoft Azure.
 
 		Web Technologies	:   HTML5, CSS3, Javascript, Bootstrap, Jquery, Github
 		
-		Code Editor        :   Visual Studio Code
+		Code Editor            :   Visual Studio Code
 
-        Azure Services        :   Azure Bot Service, QnA Maker Service, Azure App Service, Azure Portal, Azure cloud shell
+        Azure Services         :   Azure Bot Service, QnA Maker Service, Azure App Service, Azure Portal, Azure cloud shell

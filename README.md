@@ -62,25 +62,25 @@ I made this project for my Future Ready Talent internship in Microsoft Azure.
     details Page, Gallery Page and Contact Page along with FAQ chatbot deployed for customers help.	Some of the advantages of 
     using the chatbot are as follows :
 
-    	1. Faster and efficient method to provide information to the customers. 
+    1. Faster and efficient method to provide information to the customers. 
     
-    	2. Exceptionally fast exchange of customer problems and solutions.
+    2. Exceptionally fast exchange of customer problems and solutions.
 
-    	3. Easy and least time consuming.
+   	3. Easy and least time consuming.
 
-    	4. Many simultaneous  users  can communicate with the chatbot.
+   	4. Many simultaneous  users  can communicate with the chatbot.
 
-    	5. The chatbot will be available anytime for the customer. 
+   	5. The chatbot will be available anytime for the customer. 
 
-    	6.Increase in productivity and growth of the organization.
+   	6.Increase in productivity and growth of the organization.
     		
     		
     SOFTWARE AND WEB TECHNOLOGIES USED IN PROJECT -
 
-		Operating System	:   Debian 11 (Linux)
+	Operating System	:   Debian 11 (Linux)
 
-		Web Technologies	:   HTML5, CSS3, Javascript, Bootstrap, Jquery, Github
+	Web Technologies	:   HTML5, CSS3, Javascript, Bootstrap, Jquery, Github
 		
-		Code Editor		    :   Visual Studio Code
+	Code Editor		    :   Visual Studio Code
 
-        Azure Services      :   Azure Bot Service, QnA Maker Service, Azure App Service, Azure Portal, Azure cloud shell
+    Azure Services      :   Azure Bot Service, QnA Maker Service, Azure App Service, Azure Portal, Azure cloud shell

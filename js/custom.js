@@ -160,5 +160,4 @@ $(document).ready(function() {
 
  //------IFRAME BACKGROUND------
 
- $('iframe').css('background', 'white');
- $('iframe').contents().find('body').css('backgroundColor', 'white');
+ 
